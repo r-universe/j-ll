@@ -5,3 +5,6 @@
 [submodule "FisPro"]
 	path = FisPro
 	url = https://github.com/cran/FisPro
+[submodule "GeoFIS"]
+	path = GeoFIS
+	url = https://github.com/cran/GeoFIS
